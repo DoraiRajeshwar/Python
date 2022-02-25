@@ -1,5 +1,5 @@
 # Python
-# Python
+
 # Assignment: identifying groups of similar wines
 A sommelier is a trained professional who spends his or her day tasting different wines, and
 identifying similarities (or sometimes dissimilarities) between these. Given this is clearly an exhausting
